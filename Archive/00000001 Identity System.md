@@ -4,7 +4,7 @@
 
 Neoparia Commonwealth have un clear but sophisticated identity system.
 
-Humans may be divided into 12 categories in Neoparia Commonwealth in terms of Presence Status.
+Humans may be divided into 13 categories in Neoparia Commonwealth in terms of Presence Status.
 
 - Neoparia citizen (general civilian)
 - Neoparia citizen (civilian with voluntary citizenship of foreign country)
