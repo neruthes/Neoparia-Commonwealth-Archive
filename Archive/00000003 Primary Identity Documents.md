@@ -113,7 +113,7 @@ This article include primary identity documents which are stand-alone identity d
 ### Driver License
 
 - Requirement:
-  - Refugee with domicile in Neoparia Commonwealth
+  - Pass driver status exam
 - Purpose: License; domestic identification
 - Period of Validity: 10 years
 - Features:
