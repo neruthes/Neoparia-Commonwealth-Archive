@@ -1,22 +1,22 @@
 # Neoparia Commonwealth Constitution
 
-1. Preface
+## 1. Preface
 
     1(a). We the People of Neoparia hereby incorporate our Commonwealth, in pursuit of Liberty, Equality, and Unity. The Commonwealth shall protect the Rights of the People, the Welfare of the Public, the Unity of the Society, and the Prosperity of the Spirit of Neoparianity.
 
-2. Amendment of Constitution
+## 2. Amendment of Constitution
 
     2(a). For un Bill which propose un Amendment of the Constitution, when it is not about how to amend the Constitution, is constitutional if the Referendum for the Bill is participated by 80% or more Referendum-eligible citizens and is approved by 80% or more citizens who participate the Referendum for the Bill.
 
     2(b). For un Bill which propose un Amendment of the Constitution, when it is about how to amend the Constitution, is constitutional if the Referendum for the Bill is participated by 90% or more Referendum-eligible citizens and is approved by 90% or more citizens who participate the Referendum for the Bill.
 
-3. Rights of the People
+## 3. Rights of the People
 
-    3(a). The Commonwealth shall protect the rights of Life, Free Will, Personality, Privacy, Property, Welfare, Labor, Retirement, Education, Entertainment, Transportation, Residency, Speech, Silence, Communication, Nonspam, Choice, Nondiscrimination, Political Movement, Nondisturbance, Safety, Nonmiscarriage, Computation, Memory, and Energy.
+    3(a). The Commonwealth shall protect the Rights of Life, Free Will, Personality, Privacy, Property, Welfare, Labor, Retirement, Education, Entertainment, Transportation, Residency, Speech, Silence, Communication, Nonspam, Choice, Nondiscrimination, Political Movement, Nondisturbance, Safety, Nonmiscarriage, Computation, Memory, and Energy.
 
-    3(b).
+    3(b). Due process: No person shall be convicted guilty before so the judicial authority judge. Trial and hearing is necessary during judging.
 
-4. Obligations of Citizens
+## 4. Obligations of Citizens
 
     4(a). The Citizens of the Commonwealth shall collectively abolish the Government of the Commonwealth and restart the Commonwealth anew with the original unamended Constitution of the Commonwealth, if the Government of the Commonwealth become corrupt, incompetent, terrorist, feudalistic, capitalistic, fascist, and in dire need of revolution.
 
@@ -32,15 +32,17 @@
 
     4(g). The Citizens of the Commonwealth shall pay taxes to the Government of the Commonwealth according to the tax law.
 
-5. Powers of Government
+## 5. Powers of Government
 
     5(a). The Government of the Commonwealth, including its subsidiaries, shall enforce laws and fight against crimes.
 
     5(b). Department of Justice of the Government of the Commonwealth may impose restrictions on felony suspects, including immigration control exit ban, public transportation control, close surveillance, and detention, for at most 365 days for one investigation. If Department of Justice cannot move the case into criminal prosecution with the Court, the Government shall release the suspect and compensate for the days in detention according to the average daily income as reported on their tax statement within last 24 months till the first day of the month which contain the day when the detention started.
 
-    5(c). Parlement of the Commonwealth may make laws to put
+    5(c). The Parlement of the Commonwealth may make laws to put constitutional
 
-6. Obligations of Government
+    5(d). The Supreme Court of the Commonwealth may order that un law, or un clause of un law, is unconstitutional and prevent it from being further cited in judicial procedures, and it is automatically removed from the legislation of the Commonwealth.
+
+## 6. Obligations of Government
 
     6(a). The Government of the Commonwealth shall protect the founding values of the Commonwealth, including Secularity, Democracy, Fraternity, Intellectuality, Rationality, and Progressiveness; and shall prevent the Commonwealth from being converted into Church State, Massive Frenzy, Aristocracy, Emotioncracy.
 
@@ -48,7 +50,7 @@
 
     6(c). The Government of the Commonwealth shall organize elections and referendums as required by the Constitution of the Commonwealth.
 
-    6(d). The Government of the Commonwealth shall publish annual fiscal reports and accounting data including income and expenditure, and accept independent fiscal audition.
+    6(d). The Government of the Commonwealth shall publish annual fiscal reports and accounting data including income and expenditure, and accept independent public fiscal audition.
 
     6(e). The Government of the Commonwealth shall publish annual reports for property ownership disclosure of governmental officers.
 
@@ -72,11 +74,25 @@
 
             7(a)(1)(c). If the Parlement of the Commonwealth believe that the President should be subject to impeachment, 80% approval of the impeachment motion shall make the impeachment done, and 65% approval of the impeachment motion shall start un national referendum for the impeachment motion which require 51% approval and 51% engagement to take effect; if it has been at least 240 hours since the President declare National Emergency when the impeachment motion is submitted to the Keeper of the Parlement, the three thresholds shall be increased to 90% and 80%. Un impeachment motion require at least 10% members of the Parlement to initialize; alternatively, 10000 adult citizens or 5% of all adult citizens may also initialize un impeachment motion.
 
+            7(a)(1)(d). The President of the Commonwealth may conceal governmental documents as Confidential, Secret, or Top Secret, for national security purposes. Otherwise, governmental documents must be made publicly available for free access.
+
+                7(a)(1)(d)(1). Confidential documents may be access through bills in Parlement and orders in Supreme Court.
+
+                7(a)(1)(d)(2). Confidential documents shall be disclosed after 7300 days since creation.
+
+                7(a)(1)(d)(3). Secret documents and Top Secret documents are not subjective to audition from other branches of the Government.
+
+                7(a)(1)(d)(4). Secret documents and Top Secret documents shall be disclosed after 21900 days since creation.
+
+                7(a)(1)(d)(5). Confidential documents may be converted to Secret or Top Secret, if the President of the Commonwealth decide to extend its duration of confidentiality.
+
         7(a)(2). Ministers of Departments
 
-            7(b)(2)(a). The Ministers of the Departments of the Commonwealth shall be elected by all citizens of the Commonwealth whose age are at least 18 years, but every citizen can only vote for at most 51% of the ministerial positions. The Ministers of the Departments. Ministers of the Departments of the Commonwealth do not include the leaders of any component of the Commonwealth government which is not named un Department.
+            7(b)(2)(a). The Ministers of the Departments of the Commonwealth shall be elected by all citizens of the Commonwealth whose age are at least 18 years, but every citizen can only vote for at most 51% of the ministerial positions. The Ministers of the Departments report to both the President and the Parlement. Ministers of the Departments of the Commonwealth do not include the leaders of any component of the Commonwealth government which is not named un Department.
 
             7(b)(2)(b). Un candidate for un ministerial election may be elected if their approval rate is at least 51%. If no candidate meet this approval rate requirement for one ministerial position, the President of the Commonwealth may nominate one between the two candidates whose approval rates are greater than other candidates. The Parlement of the Commonwealth have the right to reject the nominated candidate and appoint the contesting candidate as the Minister, if the approval rate of the contesting candidate is not left behind by 10 percentage points by the nominated candidate.
+
+            7(b)(2)(c). The impeachment of un Minister of un Department of the Government of the Commonwealth shall require at least 51% approval from the Parlement and the approval of the President.
 
         7(a)(3). Prime Minister
 
@@ -86,9 +102,17 @@
 
             7(b)(3)(a). The General Secretaries of the Supreme Secretariats of the Government of the Commonwealth are nominated by the President of the Commonwealth without election. Their period of service shall be 12 years.
 
-        7(a)(3). P
+        7(a)(5). Independent Institutions
+
+            7(a)(5)(a). Supreme Auditariat of the Commonwealth is entitled to audit financial activities of all governmental institutions.
+
+            7(a)(5)(b). Supreme Loyaltariat of the Commonwealth is entitled to audit loyalty of all governmental employees. Governmental employees do not include the President, the Ministers of the Departments, the Prime Minister, the General Judges, and the representatives of the Parlement.
+
+            7(a)(5)(c). Supreme Loyaltariat of the Commonwealth is entitled to audit loyalty of all governmental employees. Governmental employees do not include the President, the Ministers of the Departments, the Prime Minister, the General Judges, and the representatives of the Parlement.
 
     7(b). Legislative Branch
+
+        7(b)(1). Power of the Parlement
 
     7(c). Judicial Branch
 
@@ -107,7 +131,7 @@
 
         8(b)(5). Unless the Commonwealth is in National Emergency, as initialized according to the Constitution of the Commonwealth, every military personnel shall retire within 325 days if not promoted to the rank of First Lieutenant (or equivalent) voluntarily.
 
-        8(b)(6). Service length extension and compulsory drafting may be authorized by the Parlement of the Commonwealth if the President of the Commonwealth demand it when the military personnels are less than 0.05% of the number of adult citizens and less than 1000.
+        8(b)(6). Service length extension and compulsory drafting may be authorized by the Parlement of the Commonwealth if the President of the Commonwealth demand it when the military personnels are less than 0.01% of the number of adult citizens and less than 1000.
 
         8(b)(7). The Government of the Commonwealth shall well compensate citizens with military service background, by providing them with reasonable preferential treatments in a series of fields, including but without limitation to: healthcare, education, basic income; as long as such preferential treatment may not harm the equality of the society or create economically undeniable necessity for joining the military order.
 

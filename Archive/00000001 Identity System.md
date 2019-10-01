@@ -52,3 +52,12 @@ List of allocated BPINs:
 - `13BC-48DF-8820`: Hsu, Tzuyao (CHN)
 - `1A27-5F39-02BD`: Liu, Yisi (CHN)
 - `4496-451A-AD3D`: Yi, Sun-sin (CKR)
+
+## NTIN (Neoparia Taxpayer Identification Number)
+
+Requirement for eligibility:
+
+- Cannot obtain NUID
+- Cannot obtain BPIN
+
+NTIN may be granted by Neoparia Taxation Bureau, if the person cannot obtain NUID or BPIN but have taxation duty in Neoparia Commonwealth.

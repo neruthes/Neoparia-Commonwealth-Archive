@@ -4,14 +4,15 @@
 
 These T-1 agencies report to both the President and the Parlement.
 
-## Office of Presidency
+## Presidency Office
 
 - Fields of administration:
   - National development strategy
   - Industry strategy
 - Affiliated institutions:
   - Bureau of Technology
-  - Bureau of 
+  - Secretariat of Transmission
+  - Secretariat of Press
 
 ## Department of Business
 
@@ -25,7 +26,8 @@ These T-1 agencies report to both the President and the Parlement.
   - Bureau of Incorporation
   - Bureau of Patent et Trademark et Copyright
   - Special Industry Administration
-  - Bureau of Customs et Tariffs
+  - Bureau of Customs Clearance
+  - Neoparia Public Notary Service
 
 ## Department of Civilization
 
@@ -39,10 +41,15 @@ These T-1 agencies report to both the President and the Parlement.
 ## Department of Diplomacy
 
 - Fields of administration:
-  - Diplomatic policies
+  - Diplomacy
+  - Consular protection abroad
+  - Asylum program
+  - Domestic consular affairs
 - Affiliated institutions:
   - Diplomatic missions in foreign countries
   - Consular Affairs Agency
+  - IGO Relations Agency
+  - Relations Agency
 
 ## Department of Education
 
@@ -73,13 +80,18 @@ These T-1 agencies report to both the President and the Parlement.
   - Intermedic missions
 - Affiliated institutions:
   - Neoparia Healthcare Insurance Foundation
-  - Medicine Food Safety Administration
-  -
+  - Medicine Safety Administration
+  - Food Safety Administration
+  - Plague Prevention Agency
+  - Intermedic Affairs Office
 
 ## Department of Immigration
 
 - Fields of administration:
-  -
+  - Citizen travel services
+  - Citizenship services
+  - Immigration inspection
+  - Process immigrant and nonimmigrant applications
 - Affiliated institutions:
   - Citizen Travel Bureau
   - Visa Bureau
@@ -103,7 +115,7 @@ These T-1 agencies report to both the President and the Parlement.
 - Fields of administration:
   - Labor policies
 - Affiliated institutions:
-  - Worker Injury Insurance Foundation
+  - Labor Insurance Foundation
 
 ## Department of Standardization
 
@@ -133,7 +145,6 @@ These T-1 agencies report to both the President and the Parlement.
   - Agricultural production supervision
   - Food supply control
 - Affiliated institutions:
-  - Neoparia Residential Annuity Foundation
   - Neoparia Residential Annuity Foundation
 
 ## Supreme Auditariat
