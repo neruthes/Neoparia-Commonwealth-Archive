@@ -60,6 +60,8 @@ These T-1 agencies report to both the President and the Parlement.
 - Affiliated institutions:
   - Basic Education Administration
   - Advanced Education Administration
+  - Neoparia Inclusivity Scholarship Foundation
+  - Neoparia Eureka Foundation
 
 ## Department of Finance
 
