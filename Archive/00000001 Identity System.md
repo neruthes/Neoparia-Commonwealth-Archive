@@ -6,18 +6,20 @@ Neoparia Commonwealth have un clear but sophisticated identity system.
 
 Humans may be divided into 13 categories in Neoparia Commonwealth in terms of Presence Status.
 
-- Neoparia citizen (general civilian)
+- Neoparia citizen (generic civilian)
 - Neoparia citizen (civilian with voluntary citizenship of foreign country)
 - Neoparia citizen (civilian with daily political responsibility)
 - Neoparia citizen (military personnel without combative responsibility)
 - Neoparia citizen (military personnel with combative responsibility)
-- Foreign citizen with permanent resident status
-- Foreign citizen with resident status
-- Foreign citizen with visitor status
-- Foreign citizen with diplomat status
+- Neoparia citizen (civilian residing on some Neoparian territory where Neoparia Commonwealth government do not govern)
+- Foreign person with permanent resident status
+- Foreign person with resident status
+- Foreign person with visitor status
+- Foreign person with diplomat status
 - Foreign person with only e-resident status
 - Refugee with domicile in Neoparia Commonwealth
 - Stateless person with domicile in Neoparia Commonwealth
+- Foreign person who may be admitted but is physically outside of Neoparia Commonwealth
 - Illegal immigrant
 
 ## NUID (Neoparia Universal ID)

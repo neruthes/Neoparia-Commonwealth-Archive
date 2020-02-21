@@ -2,7 +2,7 @@
 
 ## Abstract
 
-These T-1 agencies report to both the President and the Parlement.
+These T-1 organs report to both the President and the Parlement.
 
 ## Presidency Office
 
